@@ -1,0 +1,8 @@
+{
+  "name": "bc-apim",
+  "description": "Build with Boomi's API management products: Boomi API Gateway, Cloud API Management (CAM), and API Control Plane (ACP).",
+  "version": "0.0.2",
+  "author": {
+    "name": "Boomi"
+  }
+}
